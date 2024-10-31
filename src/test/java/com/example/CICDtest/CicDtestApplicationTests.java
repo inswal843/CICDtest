@@ -8,6 +8,7 @@ class CicDtestApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert true;
 	}
 
 }
